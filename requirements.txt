@@ -1,0 +1,7 @@
+scrapy
+requests
+bs4
+pandas
+user_agent
+tqdm
+joblib
