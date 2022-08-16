@@ -6,7 +6,7 @@ def converting_numbers(number):
     for i in number.split(','):
         string = string + i
     return int(string)
-
+print(1)
 
 def parsing(i=number_page):
     global df
